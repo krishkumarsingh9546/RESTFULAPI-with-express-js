@@ -1,0 +1,21 @@
+h1{
+    color: maroon;
+}
+
+.post{
+    background-color: rgb(210, 192, 198);
+    width: 200px;
+}
+
+.username{
+    font-style: italic;
+}
+
+.helo{
+    margin-bottom: 5px;
+   
+}
+.helo2{
+    margin-bottom: 5px;
+    background-color: rgb(222, 149, 164);
+}
